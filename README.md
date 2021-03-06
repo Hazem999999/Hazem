@@ -1,2 +1,2 @@
 # Hazem
-Data wrangling-udaciyy
+Data wrangling-udacity
